@@ -1,0 +1,3 @@
+[iata]
+API_KEY = <secret key>
+API_URL = https://airport.api.aero/airport/
