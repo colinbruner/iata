@@ -1,5 +1,5 @@
 # IATA Airport Code Lookup
-A simple airport code CLI lookup utility.
+A simple airport code CLI lookup utility using https://www.developer.aero/Airport-API/API-Overview.
 
 ```
 git clone https://github.com/colinbruner/iata.git
