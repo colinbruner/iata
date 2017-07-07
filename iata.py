@@ -47,7 +47,7 @@ if __name__ == "__main__":
     import os
 
     from argparse import ArgumentParser
-    from ConfigParser import RawConfigParser
+    from configparser import RawConfigParser
 
     parser = ArgumentParser(
         description='This utility looks up airport information by an airport\'s IATA code',
